@@ -41,10 +41,10 @@ Next step is to populate database with information and test is evrything okay.
 
 
 ## tutorial links
-[phpmyadmin](https://www.youtube.com/watch?v=JgAyGjcNrIQ&t=400s) how to create new database.
-[javascript](https://www.w3schools.com/js/default.asp) good tutorial for javascript.
-[sql](https://www.w3schools.com/sql/default.asp)
-[previos course codes](https://github.com/banksimul-2023-22spo/group_x)
+[phpmyadmin](https://www.youtube.com/watch?v=JgAyGjcNrIQ&t=400s) how to create new database.  
+[javascript](https://www.w3schools.com/js/default.asp) good tutorial for javascript.  
+[sql](https://www.w3schools.com/sql/default.asp) good tutorial for sql.  
+[previos course codes](https://github.com/banksimul-2023-22spo/group_x) grop_x codes from previos course you can use it as reference.  
 
 ## My information
 if you counter eny problems that you can't solve be contacted to me on t2rymi00@students.oamk.fi or on whatsapp. I try to solve problems when ever I have time for that.
