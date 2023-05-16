@@ -15,8 +15,8 @@ To create sql database and manage it I recomed using [UniServerZ](https://www.un
 1. Fork the repository and Clone it to your local machine.
 2. Navigate to the project directory.
 3. Install the dependencies by running the following command:``` npm install```
-3. Open your web browser and visit `http://localhost:3000` to access the application.
-2. Start the application by running the following command:```node index```
+4. Start the application by running the following command:```node index```
+5. Open your web browser and visit `http://localhost:3000` to access the application.
 
 ## API Routes
 ### Route 1: `/createnew/:passWord`
