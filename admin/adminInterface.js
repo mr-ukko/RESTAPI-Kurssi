@@ -132,7 +132,7 @@ router.post("/login", function(req, res) {
     account.getAll(function(err,dbResult){if(err){account = JSON.parse(err);}else{account = JSON.parse(dbResult);}})
 
     for (let i = 0; i < accounts.length; i++) {
-        if (req.body.user = accounts.user){
+        if (req.body.user = accounts[i].user){
             const password = 0;
             account.getById(i,function(err,dbResult){if(err){password = JSON.parse(err);}else{password = JSON.parse(json(dbResult));}})
             bcrypt.compare(req.body.password, password, function(err, finished){
